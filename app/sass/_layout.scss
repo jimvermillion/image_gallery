@@ -1,0 +1,18 @@
+li {
+  max-width: 70%;
+  margin: 5px auto;
+  img {
+    width: 350px;
+    margin: 5px auto;
+    padding: 5px;
+    border: $white solid 1px;
+  }
+}
+input, label, button {
+  text-align: center;
+  margin: 5px auto;
+}
+.newpic {
+  max-width: 40%;
+  margin: 20px auto;
+}
